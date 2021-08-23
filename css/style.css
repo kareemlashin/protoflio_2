@@ -500,7 +500,12 @@ button.bg-white:focus, button.bg-white:hover {
   background-color: transparent;
   border-color: #2b55cc;
 }
-
+.linked{
+  background-color: #0A66C2 !important;
+}
+.github{
+  background-color: #000000;
+}
 /*soft buttons*/
 .btn-soft-primary {
   background-color: rgba(77, 121, 246, 0.1);
